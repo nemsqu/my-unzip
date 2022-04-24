@@ -4,6 +4,8 @@ This program decompresses an input from a binary file created with my-zip.
 
 ## Usage
 
+Download or clone the code before continuing. Then run the following commands in the folder the code is in.
+
 To compile the program run:
 
     gcc my-unzip.c -o my-unzip
